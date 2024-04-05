@@ -42,22 +42,11 @@
     "TestNG.AutoTestSaucedemo.Test3.executor": "Run",
     "TestNG.AutoTestSaucedemo.Test4.executor": "Run",
     "TestNG.AutoTestSaucedemo.Test5.executor": "Run",
+    "TestNG.AutoTestSaucedemo.Test6.executor": "Run",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.AutoTestSaucedemo.Test5">
-    <configuration name="AutoTestSaucedemo.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutoTest-saucedemo" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AutoTestSaucedemo" />
-      <option name="METHOD_NAME" value="Test1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.AutoTestSaucedemo.Test6">
     <configuration name="AutoTestSaucedemo.Test2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest-saucedemo" />
       <option name="PACKAGE_NAME" value="" />
@@ -106,13 +95,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AutoTestSaucedemo.Test6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest-saucedemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AutoTestSaucedemo" />
+      <option name="METHOD_NAME" value="Test6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AutoTestSaucedemo.Test6" />
         <item itemvalue="TestNG.AutoTestSaucedemo.Test5" />
         <item itemvalue="TestNG.AutoTestSaucedemo.Test4" />
         <item itemvalue="TestNG.AutoTestSaucedemo.Test3" />
         <item itemvalue="TestNG.AutoTestSaucedemo.Test2" />
-        <item itemvalue="TestNG.AutoTestSaucedemo.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712237502643</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Saucedemo testai">
+      <option name="closed" value="true" />
+      <created>1712298205542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712298205542</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
